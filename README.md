@@ -6,7 +6,6 @@
 - 🌏: I'm from VietNam ![Vietnam](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png "Vietnam")
 - 👀 I’m interested in NLP
 - 🌱 I’m currently learning everything about NLP
-- 💞️ I’m looking to collaborate on ...
 
 ### Contact me via:
 
